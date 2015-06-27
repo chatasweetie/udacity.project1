@@ -1,0 +1,44 @@
+/* {
+   outline: 1px solid red !important;
+} */ 
+
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: #1abc9c;
+}
+
+.text-muted	{
+	color: #660066;
+}
+
+.text.thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 60px
+}
+
+.title-logo {
+	margin-top: 20px;
+}
+
+#headerimg {
+	max-width: 80%;
+}
+
+.backgroundimg {
+	background: url("../images/strawberry.jpg") no-repeat center center;
+	background-size: cover; 
+	height: 225px;
+}
+
+.centertext {
+	padding-top: 100px;
+	color: white;
+}
+
+.imglink, a:hover {
+	cursor: pointer;
+}
